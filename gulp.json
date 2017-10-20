@@ -1,0 +1,17 @@
+{
+    "about": "With this file you can override settings from nwt-gulpfile",
+
+    "info": {
+        "description": "Example Project",
+        "system": "Standalone",
+        "author": "networkteam.com",
+        "homepage": "https://www.example.com"
+    },
+
+    "root": {
+        "notifications": true
+    },
+    "browserSync": {
+        "enable": true
+    }
+}

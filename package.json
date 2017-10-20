@@ -1,0 +1,20 @@
+{
+  "name": "example-project",
+  "version": "1.0.0",
+  "scripts": {
+    "tasks": "gulp -T",
+    "start": "gulp",
+    "debug": "gulp --debug",
+    "beautify": "gulp --beautify",
+    "maps": "gulp --maps",
+    "build": "gulp build",
+    "pipeline": "gulp pipeline",
+    "css": "gulp css",
+    "scss": "gulp scss",
+    "js": "gulp js",
+    "images": "gulp optimizeImages"
+  },
+  "devDependencies": {
+    "nwt-gulpfile": "^1.0.0"
+  }
+}
