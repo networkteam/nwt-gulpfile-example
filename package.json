@@ -1,6 +1,6 @@
 {
-  "name": "example-project",
-  "version": "1.0.0",
+  "name": "nwt-gulpfile-example",
+  "private": true,
   "scripts": {
     "tasks": "gulp -T",
     "start": "gulp",
