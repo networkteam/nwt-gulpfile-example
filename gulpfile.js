@@ -1,5 +1,5 @@
 'use strict';
 
-require('nwt-gulpfile');
+require('@networkteam/gulpfile');
 
 // Customize here
