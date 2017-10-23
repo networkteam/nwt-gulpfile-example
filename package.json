@@ -19,6 +19,6 @@
     "lazysizes": "^4.0.1-beta1"
   },
   "devDependencies": {
-    "nwt-gulpfile": "^1.0.0"
+    "@networkteam/gulpfile": "^1.0"
   }
 }
