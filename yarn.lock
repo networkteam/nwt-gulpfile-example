@@ -3531,7 +3531,7 @@ gulp-util@~2.2.13:
     through2 "^0.5.0"
     vinyl "^0.2.1"
 
-"gulp@github:gulpjs/gulp#4.0":
+gulp@gulpjs/gulp#4.0:
   version "4.0.0-alpha.2"
   resolved "https://codeload.github.com/gulpjs/gulp/tar.gz/6d71a658c61edb3090221579d8f97dbe086ba2ed"
   dependencies:
@@ -4316,6 +4316,10 @@ jpegtran-bin@^3.0.0:
     bin-wrapper "^3.0.0"
     logalot "^2.0.0"
 
+jquery@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.2.1.tgz#5c4d9de652af6cd0a770154a631bba12b015c787"
+
 js-base64@^2.1.8, js-base64@^2.1.9:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.3.2.tgz#a79a923666372b580f8e27f51845c6f7e8fbfbaf"
@@ -4462,6 +4466,10 @@ latest-version@^3.0.0:
 lazy-req@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/lazy-req/-/lazy-req-1.1.0.tgz#bdaebead30f8d824039ce0ce149d4daa07ba1fac"
+
+lazysizes@^4.0.1-beta1:
+  version "4.0.1-beta1"
+  resolved "https://registry.yarnpkg.com/lazysizes/-/lazysizes-4.0.1-beta1.tgz#caef70e7c5bf113346c8a3c9b55626a774393f6c"
 
 lazystream@^1.0.0:
   version "1.0.0"
